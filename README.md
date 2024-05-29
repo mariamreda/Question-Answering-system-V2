@@ -2,6 +2,9 @@
 
 Welcome to the PDF Question Answering System version 2 repository! This Python application allows you to chat with multiple PDF documents. You can ask questions about the PDFs using natural language, and the application will provide relevant responses based on the content of the documents. This app utilizes a language model to generate accurate answers to your queries. this version Utilizes LangChain's functionalities such as memory and retrieval augmented generation (RAG) to boost the application's performance and reliability.
 
+
+![Alt text](gui.JPG)
+
 ## Features
 - **PDF Parsing**: Extract text from PDF files using PyPDF2.
 - **Text Chunking**: Split large texts into manageable chunks using RecursiveCharacterTextSplitter.
